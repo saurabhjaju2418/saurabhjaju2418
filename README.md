@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Saurabh Jaju 👋</h1>
 <p align="center">
-  <strong>Senior Technical Software Engineer</strong><br>
+  <strong>Senior Software Engineer</strong><br>
   Java • Spring Boot • Microservices • Cloud • DevSecOps • AI-Assisted Engineering
 </p>
 <p align="center">
