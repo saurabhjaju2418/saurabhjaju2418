@@ -1,14 +1,33 @@
-<h1 align="center">Hi, I'm Saurabh Jaju 👋</h1>
 <p align="center">
-  <strong>Senior Software Engineer</strong><br>
-  Java • Spring Boot • Microservices • Cloud • DevSecOps • AI-Assisted Engineering
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/saurabhjaju">LinkedIn</a> •
-  <a href="https://github.com/saurabhjaju2418?tab=repositories">Repositories</a>
+  <strong>SAURABH JAJU</strong> · Senior Software Engineer · Dubai
 </p>
 
-⸻
+<!-- PREMIUM-PROFILE:START -->
+<p align="center"><img src="./assets/profile/profile-banner.svg" width="100%" alt="Saurabh Jaju — software depth, systems thinking"/></p>
+
+<table><tr>
+<td width="50%"><img src="./assets/profile/terminal-card.svg" width="100%" alt="Saurabh Jaju — animated ASCII portrait"/></td>
+<td width="50%"><img src="./assets/profile/info-card.svg" width="100%" alt="About Saurabh Jaju, stack, and highlights"/></td>
+</tr></table>
+
+<p align="center"><img src="./assets/profile/engineering-story.svg" width="100%" alt="Engineering focus, technology toolkit and selected projects"/></p>
+<p align="center"><img src="./assets/profile/github-contribution-animation.svg" width="100%" alt="Actual public GitHub contribution levels, revealed diagonally"/></p>
+<!-- PREMIUM-PROFILE:END -->
+
+<p align="center">
+  <a href="https://saurabh-jaju-3d.saurabhjaju2418.chatgpt.site/"><strong>Explore my 3D portfolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/saurabhjaju">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://twitter.com/Saurabh_jaju">X / Twitter</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/saurabhjaju2418?tab=repositories">Explore repositories</a>
+</p>
+
+> I modernize complex systems and help engineering teams deliver reliable software—from Java and Spring Boot services to aviation platforms and AI-assisted workflows.
+
+<details>
+<summary><strong>✈️ The engineering story — experience, interests and projects</strong></summary>
 
 👨‍💻 About Me
 
@@ -54,3 +73,39 @@ Spring Framework · REST/SOAP · Python · Angular · GitLab CI/CD · Kibana · 
 <p align="center">
   <em>Building reliable software, modernizing complex systems, and helping engineering teams deliver with confidence.</em>
 </p>
+
+</details>
+
+<details>
+<summary><strong>⚡ How is this animated? Open the hood.</strong></summary>
+
+No GIFs. No JavaScript. No third-party animation service.
+
+These are self-contained SVG files generated with Python:
+- My GitHub avatar becomes dense ASCII using Pillow.
+- SMIL clips scan each portrait row with a moving cursor.
+- Neofetch lines slide and fade in at 60 ms intervals.
+- Real public contribution levels reveal diagonally, with specular flashes and green glows.
+- Cyan, purple, orange and green accents connect the remaining sections.
+
+The calendar is a dated snapshot, refreshed by running the generator. It is not fabricated activity.
+GitHub's table layout scales the paired cards down on phones; SVG animation support depends on the viewer.
+
+**Regenerate from the repository root:**
+
+```bash
+python -m pip install Pillow
+python scripts/generate_profile.py
+```
+
+Prefer no motion? Generate the static edition:
+
+```bash
+python scripts/generate_profile.py --static
+```
+
+[Read the generator](./scripts/generate_profile.py). Existing README content outside the marked block is preserved.
+
+</details>
+
+<p align="center"><sub>BUILD WITH INTENT. SHIP WITH CONFIDENCE.</sub></p>
