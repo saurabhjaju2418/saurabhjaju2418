@@ -22,6 +22,20 @@
   <a href="https://twitter.com/Saurabh_jaju">X / Twitter</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/saurabhjaju2418?tab=repositories">Explore repositories</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Enterprise%20Engineering-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Enterprise Engineering" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Microservices" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Containers" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions Automation" />
+  <img src="https://img.shields.io/badge/Python-AI_Workflows-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AI Workflows" />
+  <img src="https://img.shields.io/badge/TypeScript-Product_Engineering-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Product Engineering" />
+  <a href="https://github.com/saurabhjaju2418/weekly-linkedin-publisher/actions/workflows/weekly-linkedin.yml"><img src="https://github.com/saurabhjaju2418/weekly-linkedin-publisher/actions/workflows/weekly-linkedin.yml/badge.svg" alt="Weekly LinkedIn Publisher" /></a>
+</p>
+
 </p>
 
 > I modernize complex systems and help engineering teams deliver reliable software—from Java and Spring Boot services to aviation platforms and AI-assisted workflows.
