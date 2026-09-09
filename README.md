@@ -22,20 +22,40 @@
   <a href="https://twitter.com/Saurabh_jaju">X / Twitter</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/saurabhjaju2418?tab=repositories">Explore repositories</a>
+</p>
 
+<h3 align="center">Backend & Architecture</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Enterprise%20Engineering-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Enterprise Engineering" />
   <img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Microservices" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Containers" />
+  <img src="https://img.shields.io/badge/Hibernate-JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate and JPA" />
+  <img src="https://img.shields.io/badge/MongoDB-Data-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions Automation" />
-  <img src="https://img.shields.io/badge/Python-AI_Workflows-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AI Workflows" />
-  <img src="https://img.shields.io/badge/TypeScript-Product_Engineering-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Product Engineering" />
-  <a href="https://github.com/saurabhjaju2418/weekly-linkedin-publisher/actions/workflows/weekly-linkedin.yml"><img src="https://github.com/saurabhjaju2418/weekly-linkedin-publisher/actions/workflows/weekly-linkedin.yml/badge.svg" alt="Weekly LinkedIn Publisher" /></a>
+  <img src="https://img.shields.io/badge/REST-API%20Design-005571?style=flat-square" alt="REST API Design" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-Architecture-7B61FF?style=flat-square" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Microservices-System%20Design-6DB33F?style=flat-square" alt="Microservices System Design" />
 </p>
 
+<h3 align="center">Cloud, DevOps & Quality</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Containers" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions CI/CD" />
+  <img src="https://img.shields.io/badge/DevSecOps-Secure%20Delivery-FF6B35?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="DevSecOps" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Observability-Production%20Reliability-00A98F?style=flat-square" alt="Observability and Production Reliability" />
+  <img src="https://img.shields.io/badge/Quality_Gates-Automated%20Testing-4CAF50?style=flat-square" alt="Quality Gates and Automated Testing" />
+  <a href="https://github.com/saurabhjaju2418/weekly-linkedin-publisher/actions/workflows/weekly-linkedin.yml"><img src="https://github.com/saurabhjaju2418/weekly-linkedin-publisher/actions/workflows/weekly-linkedin.yml/badge.svg" alt="Weekly LinkedIn Publisher workflow" /></a>
+</p>
+
+<h3 align="center">Product Engineering & AI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-Product%20Engineering-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Product Engineering" />
+  <img src="https://img.shields.io/badge/Python-AI%20Workflows-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python AI Workflows" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Engineering" />
 </p>
 
 > I modernize complex systems and help engineering teams deliver reliable software—from Java and Spring Boot services to aviation platforms and AI-assisted workflows.
@@ -43,50 +63,39 @@
 <details>
 <summary><strong>✈️ The engineering story — experience, interests and projects</strong></summary>
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
 I’m a Senior Software Engineer at Emirates Group IT in Dubai, with 10+ years of experience designing, modernizing, and delivering enterprise software.
 
 My work focuses on scalable backend platforms, aviation technology, API-led integration, engineering quality, and reliable delivery. I combine hands-on development with technical leadership, solution design, code reviews, mentoring, production troubleshooting, and cross-functional collaboration.
 
-* ✈️ Building enterprise solutions for aviation reservation, ticketing, and operational platforms
-* 🧩 Modernizing legacy applications into scalable services and API-driven architectures
-* 🔐 Promoting secure coding, API standards, automated testing, and quality gates
-* 🚀 Improving CI/CD, observability, deployment reliability, and developer experience
-* 🤖 Applying AI-assisted engineering to testing, code review, repository analysis, and modernization
-* 🤝 Open to collaborating on Java, Spring Boot, developer tooling, and agentic engineering projects
+- ✈️ Building enterprise solutions for aviation reservation, ticketing, and operational platforms
+- 🧩 Modernizing legacy applications into scalable services and API-driven architectures
+- 🔐 Promoting secure coding, API standards, automated testing, and quality gates
+- 🚀 Improving CI/CD, observability, deployment reliability, and developer experience
+- 🤖 Applying AI-assisted engineering to testing, code review, repository analysis, and modernization
+- 🤝 Open to collaborating on Java, Spring Boot, developer tooling, and agentic engineering projects
 
-🛠️ Technical Toolkit
+### 🎯 Engineering Interests
 
-Backend and Architecture
+- Enterprise application and API modernization
+- Distributed systems and microservice architecture
+- Secure and observable software platforms
+- Developer productivity and automated quality engineering
+- Agentic AI integration and repository intelligence
+- Automated vulnerability analysis and DevSecOps
 
-Cloud, DevOps and Quality
+### 📌 Selected Public Projects
 
-Additional Experience
+- [SpringBootRestApiWithAngular](https://github.com/saurabhjaju2418/SpringBootRestApiWithAngular) — Full-stack CRUD application using Spring Boot, Spring Data, and Angular
+- [eds-starter6-jpa](https://github.com/saurabhjaju2418/eds-starter6-jpa) — Java, Spring Boot, JPA/Hibernate, and Ext JS application
+- [angular-electron](https://github.com/saurabhjaju2418/angular-electron) — Desktop application foundation using Angular and Electron
+- [TestApp](https://github.com/saurabhjaju2418/TestApp) — Angular application with Firebase authentication and a JSON REST backend
+- [Interactive 3D Portfolio](https://saurabh-jaju-3d.saurabhjaju2418.chatgpt.site/) — Cinematic portfolio covering enterprise engineering, aviation, cloud, DevSecOps, and AI
 
-Spring Framework · REST/SOAP · Python · Angular · GitLab CI/CD · Kibana · Postman · Jira · AI Coding Tools
+---
 
-🎯 Engineering Interests
-
-* Enterprise application and API modernization
-* Distributed systems and microservice architecture
-* Secure and observable software platforms
-* Developer productivity and automated quality engineering
-* Agentic AI integration and repository intelligence
-* Automated vulnerability analysis and DevSecOps
-
-📌 Selected Public Projects
-
-* SpringBootRestApiWithAngular — Full-stack CRUD application using Spring Boot, Spring Data, and Angular
-* eds-starter6-jpa — Java, Spring Boot, JPA/Hibernate, and Ext JS application
-* angular-electron — Native desktop timer built with Angular and Electron
-* TestApp — Angular application with Firebase authentication and a JSON REST backend
-
-⸻
-
-<p align="center">
-  <em>Building reliable software, modernizing complex systems, and helping engineering teams deliver with confidence.</em>
-</p>
+<p align="center"><em>Building reliable software, modernizing complex systems, and helping engineering teams deliver with confidence.</em></p>
 
 </details>
 
