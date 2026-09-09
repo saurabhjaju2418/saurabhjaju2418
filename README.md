@@ -19,7 +19,7 @@
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/saurabhjaju">LinkedIn</a>
   &nbsp; · &nbsp;
-  <a href="https://twitter.com/Saurabh_jaju">X / Twitter</a>
+  <a href="https://twitter.com/Saurabh_jaju">X / Twitter</a> &nbsp; · &nbsp; <a href="https://www.facebook.com/saurabh.jaju">Facebook</a> &nbsp; · &nbsp; <a href="https://www.instagram.com/jazz5886">Instagram</a> &nbsp; · &nbsp; <a href="https://www.threads.net/@jazz5886">Threads</a> &nbsp; · &nbsp; <a href="https://discord.gg/3QkRpDwS">Join Discord</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/saurabhjaju2418?tab=repositories">Explore repositories</a>
 </p>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-Product%20Engineering-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Product Engineering" />
   <img src="https://img.shields.io/badge/Python-AI%20Workflows-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python AI Workflows" />
-  <img src="https://img.shields.io/badge/Agentic_AI-Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Engineering" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Engineering" /> <img src="https://img.shields.io/badge/Next.js-Jarvis_UI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Jarvis UI" /> <img src="https://img.shields.io/badge/FastAPI-Agent_Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Agent Backend" /> <img src="https://img.shields.io/badge/OpenAI-Voice_%26_Reasoning-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Voice and Reasoning" /> <img src="https://img.shields.io/badge/RBAC-Permission_Controls-005571?style=flat-square" alt="Role Based Access Control" /> <img src="https://img.shields.io/badge/Audit_Logs-Traceable_Actions-4CAF50?style=flat-square" alt="Audit Logging" />
 </p>
 
 > I modernize complex systems and help engineering teams deliver reliable software—from Java and Spring Boot services to aviation platforms and AI-assisted workflows.
