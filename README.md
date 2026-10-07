@@ -6,7 +6,7 @@
 
 **Enterprise Systems · Cloud · DevSecOps · Agentic AI · Developer Automation**
 
-Building reliable systems, modernizing complex platforms, and engineering AI-powered workflows.
+Senior Software Engineer and AI Engineer in Dubai specializing in Java, Spring Boot, microservices, AWS, Kubernetes, DevSecOps, aviation technology, agentic AI, repository security, and developer automation.
 
 [3D Portfolio](https://saurabh-jaju-3d.saurabhjaju2418.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/saurabhjaju) · [GitHub](https://github.com/saurabhjaju2418)
 
@@ -35,6 +35,12 @@ Building reliable systems, modernizing complex platforms, and engineering AI-pow
 </p>
 
 <!-- PROFILE-V2:END -->
+
+## Professional profile
+
+**Saurabh Jaju** is a Senior Software Engineer and AI Engineer specializing in **Java, Spring Boot, Microservices, AWS, Kubernetes, Docker, DevSecOps, Aviation Technology, Agentic AI, Repository Security, Observability, and Developer Automation**. Based in Dubai, he builds enterprise software platforms, modernizes complex systems, and develops practical AI-powered engineering workflows.
+
+[3D AI Engineering Portfolio](https://saurabh-jaju-3d.saurabhjaju2418.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/saurabhjaju) · [GitHub](https://github.com/saurabhjaju2418)
 
 ## Engineering focus
 
@@ -68,9 +74,9 @@ Java · Spring Boot · Microservices · REST APIs · AWS · Kubernetes · Docker
 <details>
 <summary><strong>👨‍💻 About me</strong></summary>
 
-I'm a Senior Software Engineer based in Dubai with 10+ years of experience building and modernizing enterprise software.
+I'm a Senior Software Engineer and AI Engineer based in Dubai with 10+ years of experience building and modernizing enterprise software.
 
-My engineering work spans aviation platforms, backend services, API-led integration, cloud delivery, automated quality engineering and AI-assisted developer workflows.
+My engineering work spans aviation technology, Java and Spring Boot backend platforms, microservices, API-led integration, AWS and Kubernetes cloud delivery, DevSecOps, automated quality engineering, repository security, agentic AI and AI-assisted developer workflows.
 
 I enjoy working at the intersection of software architecture, developer productivity and applied AI — especially when an idea can be turned into a reliable, repeatable engineering system.
 
