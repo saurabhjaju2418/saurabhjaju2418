@@ -98,3 +98,48 @@ The original profile already used generated SVG animations and a Python generato
 </p>
 
 <p align="center"><sub>BUILD WITH INTENT · SHIP WITH CONFIDENCE</sub></p>
+
+<hr/>
+
+## 🧰 Engineering & Technology Badges
+
+<h3 align="center">Backend & Architecture</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Enterprise%20Engineering-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Enterprise Engineering" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Microservices" />
+  <img src="https://img.shields.io/badge/Hibernate-JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate and JPA" />
+  <img src="https://img.shields.io/badge/MongoDB-Data-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST-API%20Design-005571?style=flat-square" alt="REST API Design" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-Architecture-7B61FF?style=flat-square" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Microservices-System%20Design-6DB33F?style=flat-square" alt="Microservices System Design" />
+</p>
+
+<h3 align="center">Cloud, DevOps & Quality</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Containers" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions CI/CD" />
+  <img src="https://img.shields.io/badge/DevSecOps-Secure%20Delivery-FF6B35?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="DevSecOps" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Observability-Production%20Reliability-00A98F?style=flat-square" alt="Observability and Production Reliability" />
+  <img src="https://img.shields.io/badge/Quality_Gates-Automated%20Testing-4CAF50?style=flat-square" alt="Quality Gates and Automated Testing" />
+  <a href="https://github.com/saurabhjaju2418/weekly-linkedin-publisher/actions/workflows/weekly-linkedin.yml"><img src="https://github.com/saurabhjaju2418/weekly-linkedin-publisher/actions/workflows/weekly-linkedin.yml/badge.svg" alt="Weekly LinkedIn Publisher workflow" /></a>
+</p>
+
+<h3 align="center">Product Engineering & AI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-Product%20Engineering-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Product Engineering" />
+  <img src="https://img.shields.io/badge/Python-AI%20Workflows-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python AI Workflows" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Engineering" />
+  <img src="https://img.shields.io/badge/Next.js-Jarvis_UI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Jarvis UI" />
+  <img src="https://img.shields.io/badge/FastAPI-Agent_Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Agent Backend" />
+  <img src="https://img.shields.io/badge/OpenAI-Voice_%26_Reasoning-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Voice and Reasoning" />
+  <img src="https://img.shields.io/badge/RBAC-Permission_Controls-005571?style=flat-square" alt="Role Based Access Control" />
+  <img src="https://img.shields.io/badge/Audit_Logs-Traceable_Actions-4CAF50?style=flat-square" alt="Audit Logging" />
+</p>
+
+<p align="center"><sub>TECH STACK · ENGINEERING · CLOUD · AI · DEVSECOPS</sub></p>
