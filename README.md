@@ -36,6 +36,20 @@ Senior Software Engineer and AI Engineer in Dubai specializing in Java, Spring B
 
 <!-- PROFILE-V2:END -->
 
+<!-- PHOTO-IDENTITY:START -->
+
+<p align="center">
+  <strong>ENGINEERING IDENTITY</strong><br/>
+  <sub>Software × AI · Enterprise Engineering · Automation</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/profile/id.png?v=1" width="250" alt="Saurabh Jaju profile portrait" />
+  <img src="./assets/profile/right_pointing.png?v=1" width="420" alt="Saurabh Jaju pointing to his engineering work" />
+</p>
+
+<!-- PHOTO-IDENTITY:END -->
+
 ## Professional profile
 
 **Saurabh Jaju** is a Senior Software Engineer and AI Engineer specializing in **Java, Spring Boot, Microservices, AWS, Kubernetes, Docker, DevSecOps, Aviation Technology, Agentic AI, Repository Security, Observability, and Developer Automation**. Based in Dubai, he builds enterprise software platforms, modernizes complex systems, and develops practical AI-powered engineering workflows.
