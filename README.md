@@ -23,7 +23,7 @@ Senior Software Engineer and AI Engineer in Dubai specializing in Java, Spring B
 </p>
 
 <p align="center">
-  <img src="./assets/profile/stack-orbit-v2.svg?v=2" width="100%" alt="Saurabh Jaju technology stack"/>
+  <img src="./assets/profile/stack-orbit-v2.svg?v=3" width="100%" alt="Saurabh Jaju technology stack"/>
 </p>
 
 <p align="center">
