@@ -23,7 +23,7 @@ Senior Software Engineer and AI Engineer in Dubai specializing in Java, Spring B
 </p>
 
 <p align="center">
-  <img src="./assets/profile/stack-orbit-v2.svg?v=3" width="100%" alt="Saurabh Jaju technology stack"/>
+  <img src="./assets/profile/stack-orbit-v2.svg?v=2" width="100%" alt="Saurabh Jaju technology stack"/>
 </p>
 
 <p align="center">
@@ -35,26 +35,6 @@ Senior Software Engineer and AI Engineer in Dubai specializing in Java, Spring B
 </p>
 
 <!-- PROFILE-V2:END -->
-
-<!-- PHOTO-IDENTITY:START -->
-
-<p align="center">
-  <strong>ENGINEERING IDENTITY</strong><br/>
-  <sub>Software × AI · Enterprise Engineering · Automation</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/profile/id.png?v=1" width="250" alt="Saurabh Jaju profile portrait" />
-  <img src="./assets/profile/right_pointing.png?v=1" width="420" alt="Saurabh Jaju pointing to his engineering work" />
-</p>
-
-<!-- PHOTO-IDENTITY:END -->
-
-## GitHub contribution activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/saurabhjaju2418" width="100%" alt="Saurabh Jaju GitHub contribution graph" />
-</p>
 
 ## Professional profile
 
